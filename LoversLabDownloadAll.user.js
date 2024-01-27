@@ -8,7 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=loverslab.com
 // @grant        none
 // @license      MIT
-// @downloadURL  https://example.com/path/to/LoversLabDownloadAll.user.js
+// @downloadURL  https://github.com/Elotiroy923812/LLDALL_test_2024/blob/main/LoversLabDownloadAll.user.js
+// @updateURL    https://github.com/Elotiroy923812/LLDALL_test_2024/blob/main/LoversLabDownloadAll.user.js
 // ==/UserScript==
 
 (function() {
